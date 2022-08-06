@@ -1,0 +1,15 @@
+table{
+font-family: Arial;
+    color: white;
+    background-color: black;
+border-collapse:collapse;
+    size: A3;
+}
+th, td {
+    border: 1px;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even){
+    background-color:dimgrey;
+}
